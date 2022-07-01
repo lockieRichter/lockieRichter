@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lockieRichter
 - 👀 I’m interested in clean coding and problem solving using code.
-- 🌱 I’m currently learning Python and ReactJS.
+- 🌱 I’m currently learning Dart, Go and Ruby
 - 💞️ I’m looking to collaborate on anything interesting really.
 - 📫 How to reach me - richter.lockie@gmail.com
 
